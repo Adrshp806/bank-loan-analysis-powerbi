@@ -59,36 +59,20 @@ ORDER BY month_start;
 ```
 
 ## Dashboard preview
-Add 2–4 screenshots to the repo and reference them here:
 ```markdown
 ![Summary](docs/dashboard_screenshots/summary.png)
 ![Overview](docs/dashboard_screenshots/overview.png)
 ![Details](docs/dashboard_screenshots/details.png)
 ```
-If you don’t want folders yet, drop PNGs next to the PBIX and link them directly.
-
-## How to present this
-- Use **Bank_Loan_data.pptx** for a quick walkthrough:
-  1) business problem → 2) KPIs → 3) visuals → 4) insights → 5) next steps.  
-- Keep one slide with assumptions and data limitations.
-
-## Make it yours
-- Add a short **project description** in the GitHub sidebar.
-- Optional badges at the top:
 ```markdown
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
 ![SQL Server](https://img.shields.io/badge/Database-SQLServer-red)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ```
 
-## Roadmap
-- [ ] Add a tiny anonymized sample (1–2k rows) for faster clones  
-- [ ] Export 3 crisp screenshots  
-- [ ] Add a `/sql` file with all queries in one place  
-- [ ] Optional: publish to Power BI Service and link here
 
 ## License
 MIT — do whatever, just add credit where sensible.
 
 ## Contact
-**<Your Name>** — <email or LinkedIn>
+**<Adarsh Pandey>** — <Adarshp806@gmail.com>
